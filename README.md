@@ -15,3 +15,7 @@ Become a Cloud Security Architect and work in the global tech market.
 - [x] Linux Basics
 - [ ] Cloud Fundamentals
 - [ ] Security Fundamentals
+      
+## Linux Labs
+
+- [Linux Basics and Shell Usage](linux/linux-basics-and-shell-usage.md)
