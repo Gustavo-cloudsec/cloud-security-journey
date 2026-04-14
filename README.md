@@ -21,3 +21,4 @@ Become a Cloud Security Architect and work in the global tech market.
 - [Linux Basics and Shell Usage](linux/linux-basics-and-shell-usage.md)
 - [Linux CLI Exploration](linux/linux-cli-exploration.md)
 - [Linux CLI Log Analysis](linux/linux-cli-log-analysis.md)
+- [Linux CLI Review Lab](linux/linux-cli-review-lab.md)
